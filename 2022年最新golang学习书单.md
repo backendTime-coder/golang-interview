@@ -93,6 +93,10 @@ go语言本就精巧，全书只有区区200余页，但已经将go语言的精�
 
 以上就是本次推荐的书单，希望各位大佬学得开心。
 
-有需要的大佬，可以自取。关注公众号：后端时光，回复解压密码，获取解压密码。
+有需要的大佬，可以自取
 
 链接: https://pan.baidu.com/s/1RQW6ZUGWUWXRyzOEqPw2Ow 提取码: 68r3
+
+关注公众号：后端时光，回复解压密码，获取解压密码。
+
+[![qWOP4U.jpg](https://s1.ax1x.com/2022/03/31/qWOP4U.jpg)](https://imgtu.com/i/qWOP4U)
